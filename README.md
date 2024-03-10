@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuestingSoul
+- 👋 Hi, I’m @Adam
 - 👀 I’m interested in ... Learning to build websites
 - 🌱 I’m currently learning ... HTML, CSS, JAVA
 - 💞️ I’m looking to collaborate on ...
